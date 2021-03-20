@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/badge/RoR-red)
+
 # Scaffold for social media app with Ruby on Rails
 
 This repo presents a social media app called “Stay in touch”.
